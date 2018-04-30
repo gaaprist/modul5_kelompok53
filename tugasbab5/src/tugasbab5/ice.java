@@ -21,7 +21,6 @@ public final class ice {
         ope = new operasi(); //inisialisasi obkject ope dari class operasi
         inputData(); //memanggil method input data
     }
-    
     public void inputData(){
         Scanner scan = new Scanner(System.in);
         System.out.println("===== Selamat Datang di Program Penjualan Ice Vainglory =====\n");
